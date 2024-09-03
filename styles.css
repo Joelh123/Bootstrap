@@ -1,0 +1,34 @@
+body, html {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-bottom: 2%;
+}
+
+h1 {
+    padding-top: 2%;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.arvosana {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 1%;
+    background-color: #999991;
+}
+
+.opiskelija {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: lightgray;
+} 
+
+.suurempi_teksti {
+    font-size: x-large;
+}
+
+.viiva {
+    border: 1px solid gray;
+}
